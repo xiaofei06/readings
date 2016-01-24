@@ -10,7 +10,7 @@ The main purpose of this list is to keep track of the technical books or papers 
 
 ## Statistics and Modeling
 ##### Conventional Statistics
-* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850):
+* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): 
 
 ##### Time Series Modeling
 * [Time Series Analysis and Its Applications - With R Examples](http://www.springer.com/us/book/9781441978646): 
@@ -19,6 +19,6 @@ The main purpose of this list is to keep track of the technical books or papers 
 * [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370):
 
 ## Algorithms
-* [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996):
+* [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book has a collection of good coding problems. 
 
-* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): 
+* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): Most discrete optimization problem can be formulated as network flow problems. Writen by Prof.Hochbaum, expert in Approximation Algorithm, the note discusses how a large class of different formulations are linked, and for intractable problems, strong approximability results can be obtained.
