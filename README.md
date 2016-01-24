@@ -21,4 +21,4 @@ The main purpose of this list is to keep track of the technical books or papers 
 ## Algorithms
 * [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book has a collection of good coding problems. 
 
-* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): Most discrete optimization problem can be formulated as network flow problems. Writen by Prof.Hochbaum, expert in Approximation Algorithm, the note discusses how a large class of different formulations are linked, and for intractable problems, strong approximability results can be obtained.
+* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): Most discrete optimization problems can be formulated as network flow problems. Writen by Prof.Hochbaum, expert in Approximation Algorithm, the note discusses how a large class of different formulations are linked, and for intractable problems, strong approximability results can be obtained.
