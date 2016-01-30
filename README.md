@@ -10,13 +10,13 @@ The main purpose of this list is to keep track of the technical books or papers 
 
 ## Statistics and Modeling
 ##### Conventional Statistics
-* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): 
+* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): Focused on classic statistical methods. The first chaptor is a great introductory. It distinguishes some concepts, such as experimental vs. observational, association vs. causatily. 
 
 ##### Time Series Modeling
 * [Time Series Analysis and Its Applications - With R Examples](http://www.springer.com/us/book/9781441978646): 
 
 ##### Algorithmic Modeling
-* [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370):
+* [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370): 
 
 ## Algorithms
 * [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book has a collection of good coding problems. 
