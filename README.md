@@ -10,15 +10,15 @@ The main purpose of this list is to keep track of the technical books or papers 
 
 ## Statistics and Modeling
 ##### Conventional Statistics
-* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): Focused on classic statistical methods. The first chaptor is a great introductory. It distinguishes some concepts, such as experimental vs. observational, association vs. causatily. 
+* [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): Focused on classic statistical methods. The first chaptor is a great introduction; it emphasizes key concepts, such as experimental vs. observational, association vs. causatily. 
 
 ##### Time Series Modeling
-* [Time Series Analysis and Its Applications - With R Examples](http://www.springer.com/us/book/9781441978646): 
+* [Time Series Analysis and Its Applications - With R Examples](http://www.springer.com/us/book/9781441978646): not finished yet. 
 
 ##### Algorithmic Modeling
-* [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370): 
+* [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370): Good introductory book to machine learning. Key concepts are overfitting, bias-variance tradeoff... which are discuessed with different models in each chapter.
 
 ## Algorithms
-* [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book has a collection of good coding problems. 
+* [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book is a collection of code interview problems. 
 
-* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): Most discrete optimization problems can be formulated as network flow problems. Writen by Prof.Hochbaum, expert in Approximation Algorithm, the note discusses how a large class of different formulations are linked, and for intractable problems, strong approximability results can be obtained.
+* [Lecture Notes for Graph Algorithms and Network Flows](http://www.ieor.berkeley.edu/~hochbaum/files/IEOR266-lecture-notes-F2015.pdf): Most discrete optimization problems can be formulated as network flow problems. Writen by Prof.Hochbaum, an expert in Approximation Algorithm, the note discusses how a large class of different formulations are linked, and for intractable problems, strong approximability results can be obtained.
