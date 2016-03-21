@@ -8,6 +8,8 @@ The main purpose of this list is to keep track of the technical books or papers 
 
 * [Head First Design Patterns](http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf): Head First series are relatively easy. One can quickly go through the 600~ pages and learn some general principals and patterns in OO Design.
 
+* [Operating Systems: Principles and Practice](http://www.amazon.com/Operating-Systems-Principles-Thomas-Anderson/dp/0985673516):
+
 ## Statistics and Modeling
 ##### Conventional Statistics
 * [Statistical Models: Theory and Practice](http://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850): Focused on classic statistical methods. The first chaptor is a great introduction; it emphasizes key concepts, such as experimental vs. observational, association vs. causatily. 
