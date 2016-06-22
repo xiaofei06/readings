@@ -20,6 +20,9 @@ The main purpose of this list is to keep track of the technical books or papers 
 ##### Algorithmic Modeling
 * [An Introduction to Statistical Learning - with Applications in R](http://www.springer.com/us/book/9781461471370): Good introductory book to machine learning. Key concepts are overfitting, bias-variance tradeoff... which are discuessed with different models in each chapter.
 
+##### Deep Learning
+* [A Guide to Convolution Arithmetic for Deep Learning](http://arxiv.org/pdf/1603.07285v1.pdf): Explains the key attributes and computing (kernels, strides, paddings, pooling) of CNN in 20~pages.
+
 ## Algorithms
 * [Algorithm for Interviews](http://www.amazon.com/Algorithms-For-Interviews-Adnan-Aziz/dp/1453792996): The book is a collection of code interview problems. 
 
